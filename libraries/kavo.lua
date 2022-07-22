@@ -63,15 +63,15 @@ local themeStyles = {
         TextColor = Color3.fromRGB(255,255,255),
         ElementColor = Color3.fromRGB(20, 20, 20)
     },
-    LightTheme = {
+    FDPTheme = {
         SchemeColor = Color3.fromRGB(150, 150, 150),
         Background = Color3.fromRGB(255,255,255),
-        Header = Color3.fromRGB(200, 200, 200),
-        TextColor = Color3.fromRGB(0,0,0),
+        Header = Color3.fromRGB(25, 32, 42),
+        TextColor = Color3.fromRGB(25, 32, 42),
         ElementColor = Color3.fromRGB(224, 224, 224)
     },
     BloodTheme = {
-        SchemeColor = Color3.fromRGB(227, 27, 27),
+        SchemeColor = Color3.fromRGB(25, 152, 212),
         Background = Color3.fromRGB(10, 10, 10),
         Header = Color3.fromRGB(5, 5, 5),
         TextColor = Color3.fromRGB(255,255,255),
